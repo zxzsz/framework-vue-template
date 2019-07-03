@@ -7,11 +7,21 @@ import NotFoundPage from './pages/not-found.vue';
 import PanelLeftPage from './pages/panel-left.vue';
 import PanelRightPage from './pages/panel-right.vue';
 import ActionPage from './pages/action.vue';
+import ListPage from './pages/list.vue';
+import AccordionPage from './pages/accordion.vue';
 
 export default [
   {
     path: '/',
     component: HomePage,
+  },
+  {
+    path: '/list/',
+    component: ListPage
+  },
+  {
+    path: '/accordion/',
+    component: AccordionPage
   },
   {
     path: '/panel-left/',

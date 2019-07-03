@@ -18,8 +18,11 @@
     </f7-block>
     <f7-block-title>Navigation</f7-block-title>
     <f7-list>
-      <f7-list-item link="/action/" title="About"></f7-list-item>
+      <f7-list-item link="/about/" title="About"></f7-list-item>
       <f7-list-item link="/form/" title="Form"></f7-list-item>
+      <f7-list-item link="/list/" title="List"></f7-list-item>
+      <f7-list-item link="/accordion/" title="Accordion"></f7-list-item>
+      <f7-list-item link="/action/" title="Action"></f7-list-item>
     </f7-list>
     
     <f7-block-title>Modals</f7-block-title>
