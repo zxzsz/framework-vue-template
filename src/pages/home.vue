@@ -23,6 +23,7 @@
       <f7-list-item link="/list/" title="List"></f7-list-item>
       <f7-list-item link="/accordion/" title="Accordion"></f7-list-item>
       <f7-list-item link="/action/" title="Action"></f7-list-item>
+      <f7-list-item link="/range/" title="Range"></f7-list-item>
     </f7-list>
     
     <f7-block-title>Modals</f7-block-title>

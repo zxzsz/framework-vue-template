@@ -9,6 +9,7 @@ import PanelRightPage from './pages/panel-right.vue';
 import ActionPage from './pages/action.vue';
 import ListPage from './pages/list.vue';
 import AccordionPage from './pages/accordion.vue';
+import RangePage from './pages/Range.vue';
 
 export default [
   {
@@ -22,6 +23,10 @@ export default [
   {
     path: '/accordion/',
     component: AccordionPage
+  },
+  {
+    path: '/range/',
+    component: RangePage
   },
   {
     path: '/panel-left/',
